@@ -1,0 +1,15 @@
+PODS:
+  - ObjectMapper (2.2.2)
+  - SwiftMessages (3.1.2)
+
+DEPENDENCIES:
+  - ObjectMapper (~> 2.2)
+  - SwiftMessages
+
+SPEC CHECKSUMS:
+  ObjectMapper: 9e385c2295bcc4e16eabbcfc85db801442bba545
+  SwiftMessages: 87816be9b0b6dc37ff0e84ce3ff4555144554c32
+
+PODFILE CHECKSUM: d8db169ec10220fea94f12fc3ea8795d33124a98
+
+COCOAPODS: 1.2.0.beta.1
