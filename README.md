@@ -10,11 +10,10 @@
       sudo gem install cocoapods
       ```
       Then, run the following command:
- 
+
       ```bash
       $ pod install
-      
-      
-Screens
 
-![Screens](https://drive.google.com/open?id=0B93vnWY26cQcTjFFZTNCUmM3RG8)
+
+- Screens
+  ![Screens](https://drive.google.com/open?id=0B93vnWY26cQcTjFFZTNCUmM3RG8)
