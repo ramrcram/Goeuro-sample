@@ -16,4 +16,4 @@
       ```
       
 - Screens
-  ![Screens](https://drive.google.com/open?id=0B93vnWY26cQcTjFFZTNCUmM3RG8)
+  ![Screens](https://www.dropbox.com/s/gpmhbv4xn4ny9zy/goeuro_sample_screen.gif)
